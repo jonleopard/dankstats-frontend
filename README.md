@@ -1,6 +1,6 @@
 # dankstats-frontend
 
-This is the frontend for dankstats, which talks to the dankstats-api.
+This is the frontend for dankstats, which talks to the [dankstats-api](https://github.com/jonleopard/dankstats-api).
 
 #### Developing
 
